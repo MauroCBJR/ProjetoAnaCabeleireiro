@@ -1,4 +1,4 @@
-# Projeto Viver Férias
+# Projeto AnaCabeleireiro
 
 Este é o repositório do projeto **Viver Férias**. Você pode acessar o site do projeto através do link abaixo:
 
